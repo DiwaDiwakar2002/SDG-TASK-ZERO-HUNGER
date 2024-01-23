@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1ffc624.css",
+    "main.js": "/static/js/main.58a39b4f.js",
+    "static/js/787.7b902a74.chunk.js": "/static/js/787.7b902a74.chunk.js",
+    "static/media/poor-boy.avif": "/static/media/poor-boy.2840b7d90b3bcdf6ccb7.avif",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e1ffc624.css.map": "/static/css/main.e1ffc624.css.map",
+    "main.58a39b4f.js.map": "/static/js/main.58a39b4f.js.map",
+    "787.7b902a74.chunk.js.map": "/static/js/787.7b902a74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ffc624.css",
+    "static/js/main.58a39b4f.js"
+  ]
+}
